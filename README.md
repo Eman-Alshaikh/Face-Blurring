@@ -26,3 +26,5 @@ The first contribution to the research was the introduction of the haar features
 ## 3- Finally, apply Gaussian Blur 
 
 The Gaussian blur feature is obtained by blurring (smoothing) an image using a Gaussian function to reduce the noise level . It can be considered as a nonuniform low-pass filter that preserves low spatial frequency and reduces image noise and negligible details in an image. It is typically achieved by convolving an image with a Gaussian kernel. 
+
+# To show results run the "main.py" script 
